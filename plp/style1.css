@@ -1,0 +1,97 @@
+body, 
+form {
+  padding: 0px;
+  margin: 0px;
+  background-color: grey;
+}
+header {
+  position: fixed;
+  width: 900px;
+}
+
+
+h1 {
+  margin: auto;
+  padding: 0px;
+  text-align: left;
+  color: red;
+}
+
+@media {
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; 
+  top: 0; 
+  width: 100vw; 
+  height: 60px;
+
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  bottom: 20px;
+  text-decoration: none;
+}
+
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  margin-top: 5px;
+}
+
+
+ul {
+ 
+  border-bottom: -20px;
+  border-top: -20px;
+  border-left: -10px;
+  border-right: -15px;
+  height: 50px;
+  width: 500px;
+  margin: -5px;
+  padding: 0px;
+  text-align: right;
+}
+
+ul,
+li {
+  float: right;
+}
+
+a {
+  top: 0px;
+  margin: 20px;
+}
+
+img {
+  margin: 100px;
+  text-align: left;
+  display: flex;
+  top: 45px;
+  bottom: 45px;
+  width: 45px;
+  background-color: yellow;
+}
+
+h2,p {
+  margin: 30px;
+  text-align: center;
+  background-color: blue;
+  
+}
+
+video {
+  
+ 
+}

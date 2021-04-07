@@ -1,0 +1,23 @@
+body,form {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #navbar {
+    text-align: left;
+    float: left;
+    display: fixed;
+    background-color: red;
+  }
+  main {
+    float: middle;
+    text-align: center;
+    background-color: green;
+    
+  }
+  li {
+    text-align: center;
+  }
+  @media {
+     
+  }
